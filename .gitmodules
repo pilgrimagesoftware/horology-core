@@ -1,3 +1,6 @@
 [submodule "swift"]
 	path = swift
 	url = git@github.com:pilgrimagesoftware/horology-core.swift.git
+[submodule "rust"]
+	path = rust
+	url = git@github.com:pilgrimagesoftware/horology-core.rs.git
