@@ -1,0 +1,3 @@
+[submodule "swift"]
+	path = swift
+	url = git@github.com:pilgrimagesoftware/horology-core.swift.git
