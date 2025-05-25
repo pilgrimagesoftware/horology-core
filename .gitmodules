@@ -4,3 +4,6 @@
 [submodule "rust"]
 	path = rust
 	url = git@github.com:pilgrimagesoftware/horology-core.rs.git
+[submodule "js"]
+	path = js
+	url = git@github.com:pilgrimagesoftware/horology-core.js.git
